@@ -6,7 +6,7 @@ import division
 
 def calculator():
     st.title("Calculator App")
-    st.header("Rabia Nazar")
+    st.header("Muhammad Ali")
 
     num1 = st.number_input("Enter the first number:")
     operator = st.selectbox("Select the operator", ["+", "-", "*", "/"])
